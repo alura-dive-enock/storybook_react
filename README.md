@@ -2,7 +2,9 @@
 
 # NextJS: Documenting your Frontend with Storybook
 
-[About and Certificate](link to certificate)
+[About and Certificate](https://github.com/alura-dive-enock/certificates/tree/main/courses/Front_End/NextJS/NextJS_Documenting_your_Frontend_with_Storybook)
+
+<br/>
 
 ## Deploy
 https://alura-dive-enock.github.io/storybook_react/
