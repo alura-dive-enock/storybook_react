@@ -6,7 +6,7 @@
 
 <br/>
 
-## Deploy
+## Deploy 🧑‍💻
 https://alura-dive-enock.github.io/storybook_react/
 
 ## Step by Step to see 👀
