@@ -1,2 +1,5 @@
-# storybook_react
-Font: https://github.com/alura-cursos/07-storybook-com-react/tree/a4.3
+ <img align="left" width="200" src='' />
+
+# NextJS: Documenting your Frontend with Storybook
+
+[About and Certificate](link to certificate)
