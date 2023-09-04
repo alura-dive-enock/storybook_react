@@ -4,6 +4,9 @@
 
 [About and Certificate](link to certificate)
 
+## Deploy
+https://alura-dive-enock.github.io/storybook_react/
+
 ## Step by Step to see 👀
 
 - Install dependencies
@@ -18,3 +21,4 @@ yarn dev:docs
 # or
 npm run dev:docs
 ```
+
